@@ -1,13 +1,14 @@
 * {
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 .prima {
     background-image: url(images/donation13.jpg);
     background-size: cover;
     height: 600px;
     color: white;
+    margin-bottom: 80px;
 }
 .donate {
     text-decoration: none;
@@ -20,4 +21,43 @@
     padding: 10px;
     border-radius: 5%;
 }
-
+.seconda {
+    position: relative;
+    text-align: center;
+    padding: 0 500px;
+}
+.terza {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50px;
+    font-size: 30px;
+    column-gap: 20px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 50px;
+}
+.main {
+    width: 50px;
+    height: 50px;
+    padding: 50px;
+  
+}
+.onee {
+    background-color: gainsboro;
+}
+.twoo {
+    background-color: gainsboro;
+    color: maroon;
+    border: 1px solid maroon;
+}
+.three {
+    background-color: gainsboro;
+}
+.four {
+    background-color: gainsboro;
+}
+.five {
+    background-color: gainsboro;
+}
