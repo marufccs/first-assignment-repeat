@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.prima {
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    height: 600px;
+    color: white;
+}
+.donate {
+    text-decoration: none;
+    position: relative;
+    left: 700px;
+    top: 32%;
+    font-size: 20px;
+    color: white; 
+    background: linear-gradient(blue , skyblue );
+    padding: 10px;
+    border-radius: 5%;
+}
+
